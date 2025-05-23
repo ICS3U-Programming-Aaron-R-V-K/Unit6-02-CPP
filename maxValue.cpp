@@ -51,5 +51,4 @@ int main() {
     // Find and print the max value using the function
     int highestValue = findMaxValue(arrayOfInt);
     std::cout << "Max value is " << highestValue << std::endl;
-
 }
